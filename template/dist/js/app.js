@@ -11,7 +11,7 @@
 
 //slide
 (function () {
-    var swiper = new Swiper('#swipper1', {
+    var swiper = new Swiper('#swiper1', {
         spaceBetween: 30,
         centeredSlides: true,
         // effect: 'fade',
@@ -24,13 +24,6 @@
             clickable: true,
         },
     });
-
 })();
 
-(function () {
-    var swiper = new Swiper('#swipper2', {
-        spaceBetween: 10,
-        freeMode: true,
-    });
-})();
 
