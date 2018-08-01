@@ -12,6 +12,7 @@
 - Libre a vous de changer de plugin js pour le slide tant que ce n'est pas du jquery.
 - Pour la charte graphique éclaté vous.
 - Faite le moins de css possible.
+- Le menu doit-être sticky.
 
 has fun.
 
