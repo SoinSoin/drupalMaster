@@ -14,7 +14,8 @@
 - Faite le moins de css possible.
 - Le menu doit-être sticky.
 - Le logo vous est fournis (pétanque.png) et doit-être à gauche du nom du site.
-- les slide sont des backgrounds-image.
+- Les slide sont des backgrounds-image.
+- Le site est bien évidement reponsive.
 
 has fun.
 
