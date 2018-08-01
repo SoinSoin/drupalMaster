@@ -13,6 +13,8 @@
 - Pour la charte graphique éclaté vous.
 - Faite le moins de css possible.
 - Le menu doit-être sticky.
+- Le logo vous est fournis (pétanque.png) et doit-être à gauche du nom du site.
+- les slide sont des backgrounds-image.
 
 has fun.
 
