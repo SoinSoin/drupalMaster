@@ -1,3 +1,3 @@
-### Fichier vide
+### A vous de jouer 
 
-aller sur la branche template svp
+liser bien les consignes bande de chenapan (je sais pas si ça s'écrit comme ça)
